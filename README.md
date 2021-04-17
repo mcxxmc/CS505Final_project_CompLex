@@ -1,6 +1,6 @@
 ## CS505Final_project_CompLex
 
-For final project CS505.
+For final project CS505 Spring 2021, directed by professor Derry Wijaya.
 
 Our codes are in the "Codes" folder. We are doing complexity prediction for Single Word.
 
