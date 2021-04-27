@@ -6,6 +6,10 @@ Our codes are in the "Codes" folder. We are doing complexity prediction for Sing
 
 The training and testing data is from CompLex dataset, which is from https://github.com/MMU-TDMLab/CompLex
 
+More specifically, we use the "lcp_single_train.tsv" in the "train" folder as the training data, and "lcp_single_test.tsv" in the "test-labels" folder as the test data.
+
+The "bibleWEB" folder and the "CRAFTtxt" folder contain additional training data used by cs505project_toucham.ipynb in the "Codes" folder.
+
 Below is a copy of the task description from that link:
 
 #  CompLex 
